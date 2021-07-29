@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 奈津Natsumi的小站</title>
-    <link>http://blog.natsumi.top/post/</link>
-    <description>Recent content in Posts on 奈津Natsumi的小站</description>
+    <title>test on 奈津Natsumi的小站</title>
+    <link>http://blog.natsumi.top/tags/test/</link>
+    <description>Recent content in test on 奈津Natsumi的小站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 29 Jul 2021 15:07:55 +0800</lastBuildDate><atom:link href="http://blog.natsumi.top/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jul 2021 15:07:55 +0800</lastBuildDate><atom:link href="http://blog.natsumi.top/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
       <link>http://blog.natsumi.top/p/test/</link>

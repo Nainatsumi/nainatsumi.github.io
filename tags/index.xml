@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Natsumi的小站</title>
+    <title>Tags on 奈津Natsumi的小站</title>
     <link>http://blog.natsumi.top/tags/</link>
-    <description>Recent content in Tags on Natsumi的小站</description>
+    <description>Recent content in Tags on 奈津Natsumi的小站</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="http://blog.natsumi.top/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 29 Jul 2021 15:07:55 +0800</lastBuildDate><atom:link href="http://blog.natsumi.top/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>http://blog.natsumi.top/tags/test/</link>
+      <pubDate>Thu, 29 Jul 2021 15:07:55 +0800</pubDate>
+      
+      <guid>http://blog.natsumi.top/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>friends</title>
+      <link>http://blog.natsumi.top/tags/friends/</link>
+      <pubDate>Thu, 29 Jul 2021 13:52:48 +0800</pubDate>
+      
+      <guid>http://blog.natsumi.top/tags/friends/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

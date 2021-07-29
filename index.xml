@@ -1,80 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Natsumi的小站</title>
+        <title>奈津Natsumi的小站</title>
         <link>http://blog.natsumi.top/</link>
-        <description>Recent content on Natsumi的小站</description>
+        <description>Recent content on 奈津Natsumi的小站</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-CN</language>
-        <lastBuildDate>Thu, 29 Jul 2021 13:52:48 +0800</lastBuildDate><atom:link href="http://blog.natsumi.top/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>奈津的朋友们</title>
-        <link>http://blog.natsumi.top/p/%E5%A5%88%E6%B4%A5%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC/</link>
-        <pubDate>Thu, 29 Jul 2021 13:52:48 +0800</pubDate>
+        <lastBuildDate>Thu, 29 Jul 2021 15:07:55 +0800</lastBuildDate><atom:link href="http://blog.natsumi.top/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Test</title>
+        <link>http://blog.natsumi.top/p/test/</link>
+        <pubDate>Thu, 29 Jul 2021 15:07:55 +0800</pubDate>
         
-        <guid>http://blog.natsumi.top/p/%E5%A5%88%E6%B4%A5%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC/</guid>
-        <description>&lt;h1 id=&#34;我的朋友们&#34;&gt;我的朋友们&lt;/h1&gt;
-&lt;h2 id=&#34;ltyec-0001&#34;&gt;LTYEC #0001&lt;/h2&gt;
-&lt;p&gt;首页:&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://ltyec.com/index.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;ltyec的垃圾网站&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;个人简介:&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://ltyec.com/introduction.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;网站个人介绍页&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;推特:&lt;/p&gt;
-&lt;p&gt;纯萌新，脑子不太灵光，一般叫ltyec，lytec，不过经常被叫做ityec，所以这么叫我也没差 日常打音游 移动端为主 基本不会code 也基本不会逆向 可能什么基本都不会 不喜欢参与政治话题 想要装糊涂的笨笨 14岁 可能会犯挺多错误 见谅 请务必&lt;a class=&#34;link&#34; href=&#34;https://twitter.com/lytec18&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;fo&lt;/a&gt;我！咱一般会&lt;a class=&#34;link&#34; href=&#34;https://twitter.com/lytec18&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;互fo&lt;/a&gt;，除非你推太问题了..不会b人除非来恶心我..&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;成为朋友交换友链&#34;&gt;成为朋友!(交换友链)&lt;/h2&gt;
-&lt;p&gt;来一起交换友链罢！&lt;/p&gt;
-&lt;h2 id=&#34;添加我站到你站&#34;&gt;添加我站到你站&lt;/h2&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.natsumi.top/img/favicon.ico/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;图标&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;网站标题：奈津Natsumi的小站&lt;/p&gt;
-&lt;p&gt;网站URL： &lt;a class=&#34;link&#34; href=&#34;https://blog.natsumi.top/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://blog.natsumi.top/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;网站介绍: 一个铁憨憨ヾ(≧▽≦*)o&lt;/p&gt;
-&lt;h2 id=&#34;添加你站到我站&#34;&gt;添加你站到我站&lt;/h2&gt;
-&lt;p&gt;发送 &lt;strong&gt;网站图标&lt;/strong&gt; ，&lt;strong&gt;网站标题&lt;/strong&gt;，&lt;strong&gt;网站首页URL&lt;/strong&gt;，&lt;strong&gt;网站介绍(可选)&lt;/strong&gt;，&lt;strong&gt;其他要求(可选)&lt;/strong&gt; 到 &lt;a class=&#34;link&#34; href=&#34;mailto:Najin_natsumi@outlook.com&#34; &gt;Najin_natsumi@outlook.com&lt;/a&gt;
-看到会处理&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;注：主题前加一个[友链申请],方便查看&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;举个栗子:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;收件人:Najin_natsumi@outlook.com
-主题:[友链申请]114514.com
-内容:
-    附件:114514.com.ico
-    网站标题:田所浩二の恶臭站点
-    网站URL:http://114514.com/
-    网站介绍:哼哼哼，啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-        </item>
-        <item>
-        <title>关于</title>
-        <link>http://blog.natsumi.top/p/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Tue, 27 Jul 2021 22:48:59 +0800</pubDate>
-        
-        <guid>http://blog.natsumi.top/p/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;h2 id=&#34;关于我&#34;&gt;关于我&lt;/h2&gt;
-&lt;p&gt;国籍：中国&lt;/p&gt;
-&lt;p&gt;职业：事学生&lt;/p&gt;
-&lt;p&gt;信仰：共产主义&lt;/p&gt;
-&lt;p&gt;立场：拒绝港独，台独等妄想分裂中国的势力&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;本人性格严重不稳定,谨慎交友&lt;/p&gt;
-&lt;h2 id=&#34;欢迎找我玩联系方式&#34;&gt;欢迎找我玩♂，联系方式:&lt;/h2&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://space.bilibili.com/381880235/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;strong&gt;哔哩哔哩@奈津Natsumi&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://t.me/NatsumiXD/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;strong&gt;Telegram@NatsumiXD&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Najinnatsumi/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;strong&gt;Github@Najinnatsumi&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://twitter.com/NaiNatsumi/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;strong&gt;Twitter@NaiNatsumi&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;mailto:Najin_natsumi@outlook.com&#34; &gt;&lt;strong&gt;Najin_natsumi@outlook.com&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;本站托管于&lt;a class=&#34;link&#34; href=&#34;https://github.com/Nainatsumi/nainatsumi.github.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;strong&gt;Github&lt;/strong&gt;&lt;/a&gt; ,由&lt;a class=&#34;link&#34; href=&#34;https://pages.github.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;strong&gt;GitHub pages&lt;/strong&gt;&lt;/a&gt;驱动&lt;/p&gt;
-</description>
+        <guid>http://blog.natsumi.top/p/test/</guid>
+        <description></description>
         </item>
         
     </channel>
