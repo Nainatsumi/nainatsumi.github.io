@@ -6,7 +6,34 @@
         <description>Recent content on 奈津Natsumi的小站</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-CN</language>
-        <lastBuildDate>Thu, 29 Jul 2021 15:07:55 +0800</lastBuildDate><atom:link href="http://blog.natsumi.top/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 14 Aug 2021 20:48:29 +0800</lastBuildDate><atom:link href="http://blog.natsumi.top/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>VR图片EXIF修复器</title>
+        <link>http://blog.natsumi.top/p/vr%E5%9B%BE%E7%89%87exif%E4%BF%AE%E5%A4%8D%E5%99%A8/</link>
+        <pubDate>Sat, 14 Aug 2021 20:48:29 +0800</pubDate>
+        
+        <guid>http://blog.natsumi.top/p/vr%E5%9B%BE%E7%89%87exif%E4%BF%AE%E5%A4%8D%E5%99%A8/</guid>
+        <description>&lt;h1 id=&#34;vr图片exif修复器&#34;&gt;VR图片EXIF修复器&lt;/h1&gt;
+&lt;p&gt;最近我姐一直倒腾自制360全景图 但是发在微博死活不能变成全景图片&lt;/p&gt;
+&lt;p&gt;然后我就写了一个小工具&lt;/p&gt;
+&lt;p&gt;注：使用到了&lt;a class=&#34;link&#34; href=&#34;https://exiftool.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;exiftool&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;思路&#34;&gt;思路&lt;/h1&gt;
+&lt;p&gt;最近发现了一个 在线修复的网站，然后我就分析了一下原理，发现他修改了图片的两个EXIF信息，如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;ProjectionType=equirectangular
+
+UsePanoramaViewer=True
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;仅需添加这两个EXIF信息即可&lt;/p&gt;
+&lt;h1 id=&#34;下载&#34;&gt;下载&lt;/h1&gt;
+&lt;p&gt;我比较懒，就用BAT写了，转化成了exe&lt;/p&gt;
+&lt;p&gt;所有文件都嵌入在这个下面的exe里面了， 如果报毒，非常正常(&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://natsumixd.lanzoui.com/iuY0wsmwrfe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://natsumixd.lanzoui.com/iuY0wsmwrfe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;密码:hyf0&lt;/p&gt;
+&lt;p&gt;(现在lanzou不能免费去除访问密码了，爷清洁)&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Test</title>
         <link>http://blog.natsumi.top/p/test/</link>
         <pubDate>Thu, 29 Jul 2021 15:07:55 +0800</pubDate>

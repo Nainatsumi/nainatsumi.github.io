@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 奈津Natsumi的小站</title>
-    <link>http://blog.natsumi.top/post/</link>
-    <description>Recent content in Posts on 奈津Natsumi的小站</description>
+    <title>EXIF on 奈津Natsumi的小站</title>
+    <link>http://blog.natsumi.top/tags/exif/</link>
+    <description>Recent content in EXIF on 奈津Natsumi的小站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Aug 2021 20:48:29 +0800</lastBuildDate><atom:link href="http://blog.natsumi.top/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Aug 2021 20:48:29 +0800</lastBuildDate><atom:link href="http://blog.natsumi.top/tags/exif/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>VR图片EXIF修复器</title>
       <link>http://blog.natsumi.top/p/vr%E5%9B%BE%E7%89%87exif%E4%BF%AE%E5%A4%8D%E5%99%A8/</link>
@@ -23,15 +23,6 @@ ProjectionType=equirectangular UsePanoramaViewer=True  仅需添加这两个EXIF
 https://natsumixd.lanzoui.com/iuY0wsmwrfe
 密码:hyf0
 (现在lanzou不能免费去除访问密码了，爷清洁)</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>http://blog.natsumi.top/p/test/</link>
-      <pubDate>Thu, 29 Jul 2021 15:07:55 +0800</pubDate>
-      
-      <guid>http://blog.natsumi.top/p/test/</guid>
-      <description></description>
     </item>
     
   </channel>

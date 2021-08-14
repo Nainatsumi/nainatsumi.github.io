@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://blog.natsumi.top/tags/exif/</loc>
+    <lastmod>2021-08-14T20:48:29+08:00</lastmod>
+  </url><url>
     <loc>http://blog.natsumi.top/post/</loc>
-    <lastmod>2021-07-29T15:07:55+08:00</lastmod>
+    <lastmod>2021-08-14T20:48:29+08:00</lastmod>
   </url><url>
     <loc>http://blog.natsumi.top/tags/</loc>
-    <lastmod>2021-07-29T15:07:55+08:00</lastmod>
+    <lastmod>2021-08-14T20:48:29+08:00</lastmod>
+  </url><url>
+    <loc>http://blog.natsumi.top/tags/vr/</loc>
+    <lastmod>2021-08-14T20:48:29+08:00</lastmod>
+  </url><url>
+    <loc>http://blog.natsumi.top/p/vr%E5%9B%BE%E7%89%87exif%E4%BF%AE%E5%A4%8D%E5%99%A8/</loc>
+    <lastmod>2021-08-14T20:48:29+08:00</lastmod>
+  </url><url>
+    <loc>http://blog.natsumi.top/tags/%E5%9B%BE%E7%89%87/</loc>
+    <lastmod>2021-08-14T20:48:29+08:00</lastmod>
+  </url><url>
+    <loc>http://blog.natsumi.top/</loc>
+    <lastmod>2021-08-14T20:48:29+08:00</lastmod>
   </url><url>
     <loc>http://blog.natsumi.top/p/test/</loc>
     <lastmod>2021-07-29T15:07:55+08:00</lastmod>
   </url><url>
     <loc>http://blog.natsumi.top/tags/test/</loc>
-    <lastmod>2021-07-29T15:07:55+08:00</lastmod>
-  </url><url>
-    <loc>http://blog.natsumi.top/</loc>
     <lastmod>2021-07-29T15:07:55+08:00</lastmod>
   </url><url>
     <loc>http://blog.natsumi.top/tags/friends/</loc>
